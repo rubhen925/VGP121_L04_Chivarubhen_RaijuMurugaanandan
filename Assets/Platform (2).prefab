@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1964450974688754}
+  m_IsPrefabAsset: 1
+--- !u!1 &1964450974688754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4349085215399884}
+  - component: {fileID: 114310981094259842}
+  - component: {fileID: 61010467084148234}
+  m_Layer: 10
+  m_Name: Platform (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4349085215399884
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1964450974688754}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.66, y: -1.19, z: 0.42848632}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &61010467084148234
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1964450974688754}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.17, y: 0.17}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.34, y: 0.34}
+  m_EdgeRadius: 0
+--- !u!114 &114310981094259842
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1964450974688754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1543a02b41f1d144ab71d1f9b48c6ee1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rows: 3
+  columns: 3
+  tileWidth: 0.17
+  tileHeight: 0.17
+  tileObjectTopLeft: {fileID: 1080644035442716, guid: 433c52362b5d64a4886c35d183b81894,
+    type: 2}
+  tileObjectTopMiddle: {fileID: 1957983952436038, guid: bb3ef587e7d8f1a48bb63ae9b69fcab0,
+    type: 2}
+  tileObjectTopRight: {fileID: 1971081495012876, guid: 8d40c92b852bb004a90854563b22b944,
+    type: 2}
+  tileObjectMiddleLeft: {fileID: 1295195768433908, guid: f5252e9885c59864f81a8dd4570c8ffb,
+    type: 2}
+  tileObjectMiddleMiddle: {fileID: 1448086195369414, guid: 60999d7b88cb4644abf92ce86e75820e,
+    type: 2}
+  tileObjectMiddleRight: {fileID: 1757284387715010, guid: feacd30bfa71ba34e83ab97dc8096f3d,
+    type: 2}
+  tileObjectBottomLeft: {fileID: 1905602441741438, guid: b65f6b8a36db2b74c993f3c4f742dbd1,
+    type: 2}
+  tileObjectBottomMiddle: {fileID: 1529422244896228, guid: 06af8d9be78813b409f8401e10ba7089,
+    type: 2}
+  tileObjectBottomRight: {fileID: 1318310482229174, guid: 3f56cfa9689e2804bb51a4ee4ce22789,
+    type: 2}
+  scalingFactor: 1

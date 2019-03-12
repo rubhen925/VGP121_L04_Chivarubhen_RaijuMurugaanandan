@@ -1,0 +1,3933 @@
+fileFormatVersion: 2
+guid: 47db9368853b1d9409c19d6df631eca5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_0
+    21300002: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_1
+    21300004: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_2
+    21300006: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_3
+    21300008: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_4
+    21300010: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_5
+    21300012: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_6
+    21300014: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_7
+    21300016: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_8
+    21300018: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_9
+    21300020: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_10
+    21300022: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_11
+    21300024: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_12
+    21300026: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_13
+    21300028: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_14
+    21300030: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_15
+    21300032: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_16
+    21300034: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_17
+    21300036: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_18
+    21300038: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_19
+    21300040: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_20
+    21300042: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_21
+    21300044: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_22
+    21300046: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_23
+    21300048: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_24
+    21300050: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_25
+    21300052: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_26
+    21300054: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_27
+    21300056: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_28
+    21300058: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_29
+    21300060: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_30
+    21300062: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_31
+    21300064: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_32
+    21300066: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_33
+    21300068: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_34
+    21300070: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_35
+    21300072: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_36
+    21300074: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_37
+    21300076: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_38
+    21300078: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_39
+    21300080: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_40
+    21300082: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_41
+    21300084: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_42
+    21300086: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_43
+    21300088: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_44
+    21300090: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_45
+    21300092: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_46
+    21300094: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_47
+    21300096: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_48
+    21300098: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_49
+    21300100: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_50
+    21300102: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_51
+    21300104: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_52
+    21300106: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_53
+    21300108: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_54
+    21300110: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_55
+    21300112: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_56
+    21300114: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_57
+    21300116: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_58
+    21300118: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_59
+    21300120: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_60
+    21300122: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_61
+    21300124: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_62
+    21300126: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_63
+    21300128: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_64
+    21300130: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_65
+    21300132: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_66
+    21300134: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_67
+    21300136: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_68
+    21300138: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_69
+    21300140: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_70
+    21300142: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_71
+    21300144: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_72
+    21300146: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_73
+    21300148: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_74
+    21300150: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_75
+    21300152: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_76
+    21300154: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_77
+    21300156: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_78
+    21300158: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_79
+    21300160: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_80
+    21300162: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_81
+    21300164: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_82
+    21300166: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_83
+    21300168: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_84
+    21300170: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_85
+    21300172: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_86
+    21300174: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_87
+    21300176: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_88
+    21300178: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_89
+    21300180: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_90
+    21300182: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_91
+    21300184: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_92
+    21300186: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_93
+    21300188: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_94
+    21300190: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_95
+    21300192: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_96
+    21300194: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_97
+    21300196: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_98
+    21300198: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_99
+    21300200: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_100
+    21300202: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_101
+    21300204: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_102
+    21300206: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_103
+    21300208: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_104
+    21300210: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_105
+    21300212: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_106
+    21300214: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_107
+    21300216: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_108
+    21300218: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_109
+    21300220: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_110
+    21300222: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_111
+    21300224: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_112
+    21300226: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_113
+    21300228: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_114
+    21300230: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_115
+    21300232: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_116
+    21300234: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_117
+    21300236: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_118
+    21300238: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_119
+    21300240: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_120
+    21300242: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_121
+    21300244: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_122
+    21300246: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_123
+    21300248: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_124
+    21300250: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_125
+    21300252: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_126
+    21300254: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_127
+    21300256: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_128
+    21300258: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_129
+    21300260: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_130
+    21300262: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_131
+    21300264: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_132
+    21300266: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_133
+    21300268: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_134
+    21300270: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_135
+    21300272: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_136
+    21300274: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_137
+    21300276: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_138
+    21300278: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_139
+    21300280: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_140
+    21300282: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_141
+    21300284: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_142
+    21300286: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_143
+    21300288: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_144
+    21300290: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_145
+    21300292: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_146
+    21300294: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_147
+    21300296: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_148
+    21300298: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_149
+    21300300: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_150
+    21300302: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_151
+    21300304: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_152
+    21300306: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_153
+    21300308: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_154
+    21300310: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_155
+    21300312: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_156
+    21300314: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_157
+    21300316: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_158
+    21300318: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_159
+    21300320: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_160
+    21300322: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_161
+    21300324: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_162
+    21300326: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_163
+    21300328: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_164
+    21300330: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_165
+    21300332: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_166
+    21300334: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_167
+    21300336: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_168
+    21300338: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_169
+    21300340: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_170
+    21300342: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_171
+    21300344: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_172
+    21300346: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_173
+    21300348: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_174
+    21300350: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_175
+    21300352: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_176
+    21300354: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_177
+    21300356: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_178
+    21300358: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_179
+    21300360: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_180
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5438d06d5625cef42b84104ba4ba2c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3e87ce31f8574c8857a44306ebe63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cd1934d5fb4340975f1c3411820aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 612
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dcd36be9120b248aab5beae8261cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 612
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5619a25d5b4e429911ddf916a0901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 612
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f03a0a1018daa4083d742df8dea895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 612
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dcd00012106494a97c9155897d315b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3a899fbff65a4baaa635a6c50f4d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b1d7c584f5f614d8f1737dc5b4f778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5ca6ef0ebf3884782d297a37465dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89946ef384cd3304cbcff1f82b0415f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 612
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd541eb2a4e8cdb49b8c857795dda58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 592
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01b5eeb98a8a54f84176e2ea904730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 592
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0880b1494dcffdd49b8e11118dba9419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 592
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e05f0cc383424a989ebd05ed83c48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 592
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5babddc5f6be5794ba1b82fbd8ea38ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 592
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c701cd1f1053023409baecbb1e599330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 592
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffb8432f49e81498185cf3708085b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 592
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ae6e51e3ea8c47916e1489a296464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 592
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621329baab10d1f44921b2e031b9ea58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 592
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf9e9539e9b9f45922fe78a8565cdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 592
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb88c72a312b2449afb1e5edb428e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 592
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0226fea11839694439a6ffb4ca088402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 592
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b712a5d8c91b48991364f6b782ab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 572
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea02d472e7e6f44ae7a7f53090f40a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 572
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea091bbf3ed2a4596952acda187f44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505418aed02f89747a9f0676680602f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c61638d4badaa48b0ada68083f5d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2ad7355acb0d348a2f2b2710c17f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd6d811ac3a5204cbdbd83bd893d256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf03edb8e3a4942ab63a772f0faf2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3561a62150b1ca41b53f1fa1d992212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d58e18be79b14086416413cef4b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_33
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdbc1218404d6e428254236fa292b08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a09c3050f7d0e44bfcaf3d62523e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 572
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e28b1f120bcbc74cbf3936e17656ca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465854ce68806fd4fafdb828b90bcb59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08bfaf46b603643959a8d108b017e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90abd47dffeb3d4baa72328da860a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfad1de891524d4b9e38f9042982905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751135cd29a59a42962e1a8ac6da79d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1dfea8429ea004e9ed4913034d5c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2872276072dc458d6366faeb4d200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e749fec7f2ef4397b4e1115a7a8a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d52876ca89064d9c96e89fc870bff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf812c196662547b0e3e1461696d78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12068f3eececdd943bd4129969c1f02c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562d2d8d13565e468ab5b28cc0574f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2633894b0c6d5d4e979b002a5dfbd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8772fbb4e9093419742efdb3552d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43730c94ddddee7458fd8e5bf2a6ea4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33e8f02427aab447a955af30ae7f127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac39d3c6ad3414f9c780fd948ce283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809bb3f47212aa74bb79caff7418e1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7227a092bf994885ae5bd24ad9229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_55
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f56753cf39d6e41b2e483fed1ae31d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_56
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02beb9d5cb00dfc4ab685077cbdad171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_57
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1070b693f87efc4da22008d1bcc4851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_58
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da17ecee008c94b92e29d9c21eb6d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 531
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850fd7296bb1e9c4e91a93492b4f02f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f072fe3a6f69449bb9e65d2dfa40b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33355241791d8a44fb43a4b6a0cfce63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_62
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c52aaf1331c8614ba3cfb8cfb7bed3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f520fbf56ef5fc48ac038abd668a70d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 511
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9423bb60585708b4383561e92e7b40ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 511
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27fb3a8672dac6458131aa76fb032b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf8f6e2632242419a4272c3157ae34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b4e1e085c35c46b61f6099626cc13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d1e324655c182408688f3e06907988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 511
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf712cb9c52ae4e82733356f3e1d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 491
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d7eaa5cb581949a9d6ce2a68f52d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e267bf07244acfb4fb1f777aed4727b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397bd1e33d94b5346be07d1eb4033463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_73
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbcbcba2225ddc4fba3c0c8683e141c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9086e8784df60644b7b79a6b5ac12f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a654472d50c79b4ab2a51c61925c5fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a36f9e193b86641a3c3ff469b94158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_77
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95b906995605f142a4e4427b34a63dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_78
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 471
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0698e7cd6f10704fb96cf3a2a1f6b68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 451
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d28893a3e6e7fd4ba1749d14a729c77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 451
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d2be5dd913894088f226de6cfde93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 451
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9970f65deee49524ba5d2e61ae1dc4c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 451
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4263e93311c2af34494e60ee0383352c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 451
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b006b1802ad14c4d91797297a7c6ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 431
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1dac428825884ca159ec1bb95a3c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_85
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 431
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1dc184f52d7c4390dbc07219ec400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 431
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809512293fd4f634c8cc2de230b02eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 410
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19667844e42125843af78900df49c637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 411
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d45b994b677604bb34291009b64248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 411
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58cb6b704810648a8d827e1405a634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 411
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab5c9753553a54a96f9f20f3452d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 411
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373bdc31fad3c541ba9d404bb633ce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 409
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb93f5c4aa93946ab245df66969c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_93
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 409
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e0e94dafc15d4dbcee856550323d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_94
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 409
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6eaa71da48f3d41b4885f1c29fb515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff44ea7a1c637b4390f17399f8340d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 389
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e76e080cb9b52f448bb644eee0921e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_97
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 388
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287fc250b8454f4bb7d01608af31444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_98
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 388
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ed3690947b784bb8da1445dd645ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_99
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 370
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba10ae1cfdb0a45940348a8f31bcec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_100
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 370
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bedc851ea01b74f948ee87b007bb2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_101
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 370
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194829e6e9214c145b918733b6e5c031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_102
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061b2dbfa6870c428d7b965029ad4c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_103
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec5e38430e76241af2ed0b9245582f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_104
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96be03df6e240945941c4fe3b4dd142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c033ac937c924aa8ea3ad6d08608e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_106
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca15046e1c1ca4fad23ab0cde418f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_107
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ea9d76c07f8d49a2032ad76a5ffde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_108
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773f8e4f9dcb646409a47cc3dc69c25c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc6f116a7cdf244804156dca74f41f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_110
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0126120df9b944d928c53fa88babed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_111
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 350
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e8478e0bfc5644b2cd07f3b2219d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543b9cdb9e30f2144a598818203ec424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_113
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f5ce6e46979c9438ed2e72260f2413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 330
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c263407074ad1d45934e0a454593b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 330
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623528a15d988448a110cc9891e86e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_116
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 330
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d283bd4ead9b042928f390834684b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_117
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 309
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5511c5b83b39924458135730edcd3b0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_118
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 309
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755d45e5aaa65644388532c43408348c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_119
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 309
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61093e51c4404a64eb2e7b9974a5843b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 309
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4595d6b37546d714c8e23bf1b7d8203a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_121
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 309
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dff6de61b8e764fb294eebd2f3b84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 309
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6727d69fb0b7f5d46bd5d71b4c4513de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_123
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 309
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb45057d524dc43b84097825d05343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_124
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 309
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2bf697c5dbc8a43849bf814b35c733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_125
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 289
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d582f170ca3194a866f3d1921538e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_126
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 289
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0894258526782f14cb40c0fc08a99947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_127
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 289
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd2cba54953dd42bdc2e3303d760d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 289
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e50409d81ff54408c3f2d23dbf5b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_129
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 289
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2660cd308393d44b6575377a6c698f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68457dc00d233a24681b857abc76a9bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_131
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 269
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39653c0c230466643a9e28c0f54d933a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 249
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca8ab2476dd2414496ffcc567d9624c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_133
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 249
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29846c5c1f87d5f47b26dad91d96a802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_134
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 249
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f4bbd4f680434694229a675237c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 249
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f825135cc8e37d43a62a9d2afa8bc7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_136
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 249
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025defbe4d7446e43a2897fb13fe38c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_137
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 249
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b9901cd7228ef4c8d7946eb669799b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_138
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 229
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae5ce91258e52a41a92179ea4b1543a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_139
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd6c544c1e2354895dbd1e619b488d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_140
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 229
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bfd60d4f4c1554ba331564059c2d94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_141
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 229
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c5a57d45bcb974285efa7f2327f13f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_142
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 229
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce4a2c34b3501d459cf21d5aeccba5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_143
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 229
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdeb3323d600e547aa14c07c4b09692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_144
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 229
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090b783e68fb774dad81e881420a6b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_145
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 229
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b161fcc23759944e8dfd94cc47d0252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 209
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab32c18127b1c4d8fd009caae6ed45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_147
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 209
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3b73d68329254cbe25cec11cb8d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_148
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 209
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d48e0b84e46f441b86097d382b969b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_149
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 209
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0cd9cc16236f040b280f843c4fa990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_150
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cc293e6585a6488c97c477217c034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_151
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 209
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a313d2bc145044b1cf285340d5865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_152
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 188
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec818fce86b1794a8d45d1fbccb5c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_153
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 188
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e0ec7c4a5594458c5054b96c47fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_154
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 188
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e2d12a37f93d4daff875a14dc2a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_155
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 188
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02abfd9c4c397684489c5058b92022be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_156
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767ae7bf54dd2a4498950466075240dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_157
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 169
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a729a445acc9546a50946eb257595d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_158
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 169
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3a22f32b68bd749aa09df4cab16630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 148
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915e84e7b629bb418af3fedad577cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_160
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eefd3d1729dcd4468b6339a6a20da87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_161
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 149
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0131d0930a4dfe24eb679f98c3c7478c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_162
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 148
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ccbe49bae1d146b4296c14a6222a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_163
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 149
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b74e35eb776904c9085900ad6013d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_164
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af155730ecaa09a4b8317a0e096b15f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_165
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 149
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdc10232ab567489dd11247f5fcf6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_166
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb091a2606538b94e858e2bf63b568f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_167
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac8c50768d5a24f924e9e60eb81d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_168
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 108
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6fedc260f91dc42b5fb6de31463c1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_169
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8045dad6eec734d844a6a23be7b205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_170
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f342337a93c924eb602a8eb206ed16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_171
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671d0b0e1ec9d5049a246d16f4fbb126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_172
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c29310c8be654fa775a3bee717b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_173
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 47
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9fcf3d38ee9cb4eac6c7f51e7975d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_174
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede8cc7f6f0724a4b8944ec59061b648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_175
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 27
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbc8d9b4154f84fbdd01a303e970aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_176
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 27
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e58fe14f5f0e4ab0b344984919606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_177
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f98529bc5a140842a39ea8d0fc0ca41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_178
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8fb00221ab8c449ad99184e752c50a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_179
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a03cf245c24ff44851fc07c8450c8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Mario__Luigi_Dream_Team_-_Big_Tail_Goomba_180
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ecdba487a49314a8265c033af3be39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0a68e8137e0b164a92be80c032fc300
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
